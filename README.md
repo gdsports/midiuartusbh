@@ -15,11 +15,11 @@ Host Library and a USB OTG to USB host cable or adapter is required.
 
 ## Components
 
-1 x Trinket M0
-2 x 220 Ohm resistors
-1 x .1 uF ceramic capacitor
-1 x 5 pin DIN connector
-1 x TI SN74AHCT125
+* 1 x Trinket M0
+* 2 x 220 Ohm resistors
+* 1 x .1 uF ceramic capacitor
+* 1 x 5 pin DIN connector
+* 1 x TI SN74AHCT125
     Logic level converter and driver
-1 x USB OTG to host cable or adapter
+* 1 x USB OTG to host cable or adapter
 
